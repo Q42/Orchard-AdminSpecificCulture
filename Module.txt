@@ -1,0 +1,8 @@
+Name: Q42.AdminSpecificCulture
+AntiForgery: enabled
+Author: Lukasvan3L @ Q42
+Website: https://github.com/Q42/Orchard-DbTranslations/wiki/Orchard-Database-Translations
+Version: 1.0
+OrchardVersion: 1.3
+Description: Enables admin menu to specify a different culture than the front-end site.
+Category: Localization
